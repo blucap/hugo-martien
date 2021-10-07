@@ -21,8 +21,8 @@ feature:
   icon_pack: fab
   name: R
 - description: 10%
-  icon: python
-  icon_pack: fas
+  icon: fa-python
+  icon_pack: fab
   name: Python
 
 # Uncomment to use emoji icons.

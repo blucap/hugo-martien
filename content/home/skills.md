@@ -24,10 +24,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
- - description: 40%
+- description: 40%
   icon: piggy-bank
   icon_pack: fas
-  name: Python
+  name: Banking
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

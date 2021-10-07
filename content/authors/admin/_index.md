@@ -14,11 +14,7 @@ organizations:
   url: https://people.wgtn.ac.nz/martien.lubberink/professional
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor Martien Lubberink completed his PhD in Economics at Groningen University. He has since worked at Lancaster University. After his sabbatical year at UNC Chapel Hill, Dr. Lubberink joined De Nederlandsche Bank, the central bank of the Netherlands. Here he contributed to the development of new regulatory capital standards and regulatory capital disclosure standards for banks worldwide and for banks in Europe (Basel III and CRD IV respectively). He also acquired comprehensive expertise on intra-group finance and on capital instrument issuances that qualify for Tier 1 and Tier 2 regulatory bank capital. Dr. Lubberink regularly contributes to the Capital Issues blog, a blog dedicated to advancing knowledge about the complex world of regulatory bank capital. It received favourable press from the Financial Times and it was quoted by Bloomberg.
-
-Dr. Lubberink's regularly writes for interest.co.nz, New Zealand’s largest financial website. He has also shared views on banking with the international and national financial press: Bloomberg, The Economist, Euromoney, the Financial Times, Risk Magazine, SNL Financial, The Wall Street Journal, Stuff.co.nz, NewsRoom.co.nz, National Business Review. 
-
-He advises banks and central banks on bank supervision and regularly contributes to panel discussions on bank capital.
+bio: Associate Professor Martien Lubberink completed his PhD in Economics at Groningen University.
 
 # Interests to show in About widget
 interests:
@@ -74,8 +70,12 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Associate Professor Martien Lubberink completed his PhD in Economics at Groningen University. He has since worked at Lancaster University. After his sabbatical year at UNC Chapel Hill, Dr. Lubberink joined De Nederlandsche Bank, the central bank of the Netherlands. Here he contributed to the development of new regulatory capital standards and regulatory capital disclosure standards for banks worldwide and for banks in Europe (Basel III and CRD IV respectively). He also acquired comprehensive expertise on intra-group finance and on capital instrument issuances that qualify for Tier 1 and Tier 2 regulatory bank capital. Dr. Lubberink regularly contributes to the Capital Issues blog, a blog dedicated to advancing knowledge about the complex world of regulatory bank capital. It received favourable press from the Financial Times and it was quoted by Bloomberg.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Lubberink's regularly writes for interest.co.nz, New Zealand’s largest financial website. He has also shared views on banking with the international and national financial press: Bloomberg, The Economist, Euromoney, the Financial Times, Risk Magazine, SNL Financial, The Wall Street Journal, Stuff.co.nz, NewsRoom.co.nz, National Business Review. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+He advises banks and central banks on bank supervision and regularly contributes to panel discussions on bank capital.
+
+
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

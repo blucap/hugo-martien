@@ -18,8 +18,8 @@ bio: Associate Professor Martien Lubberink completed his PhD in Economics at Gro
 
 # Interests to show in About widget
 interests:
-- Capital structure 
 - Accounting and Capital 
+- Capital structure 
 - Organisational Architecture
 
 # Education to show in About widget

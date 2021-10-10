@@ -78,5 +78,4 @@ Dr. Lubberink's regularly writes for interest.co.nz, New Zealand’s largest fin
 He advises banks and central banks on bank supervision and regularly contributes to panel discussions on bank capital.
 
 
-
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. --> 

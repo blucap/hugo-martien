@@ -19,19 +19,20 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
-
+#  ideas.repec.org/f/plu290.html | www.ssrn.com/author=255102 | School of Accounting and Commercial Law | Victoria University of Wellington | PO Box 600 | Wellington | W: +64 4 463 5968 | M: +64 21 134 7500 | F: +64 4 463 5076 | Signal: +31681558570 | Office 609 | Rutherford House | 23 Lambton Quay (Pipitea Campus) | Victoria University is ranked number one in New Zealand for research quality.
 email: martien.lubberink@vuw.ac.nz
-phone: 919 636 3652
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
+Phone: +64 4 463 5968
+#Google voice: 919 636 3652
+address:
+  street: 23 Lambton Quay (Pipitea Campus)
+  city: Wellington
 #  region: CA
-#  postcode: '94305'
-#  country: United States
-#  country_code: US
-#coordinates:
-#  latitude: '37.4275'
-#  longitude: '-122.1697'
+  postcode: '6140'
+  country: New Zealand
+  country_code: NZ
+coordinates:
+  latitude: '-41.28664'
+  longitude: '174.77557'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
@@ -57,14 +58,15 @@ main_menu:
 
 date_format: '2 Jan 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: en-gb
 
 # Site features
 
 highlight: true
 highlight_languages:
   - r
-math: false
+  - python
+math: true
 diagram: false
 privacy_pack: false
 edit_page:

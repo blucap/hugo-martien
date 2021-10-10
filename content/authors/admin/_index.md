@@ -6,7 +6,7 @@ title: Martien Lubberink
 superuser: true
 
 # Role/position/tagline
-role: Associate professor in accounting and capital
+role: Associate professor in Accounting and Capital
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,14 @@ organizations:
   url: https://people.wgtn.ac.nz/martien.lubberink/professional
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor Martien Lubberink completed his PhD in Economics at Groningen University.
+bio: Associate Professor Martien Lubberink completed his PhD in Economics at Groningen University. His main research interests are accounting, banking, and capital. 
 
 # Interests to show in About widget
 interests:
-- Accounting and Capital 
-- Capital structure 
-- Organisational Architecture
+- Accounting  
+- Banking
+- Capital  
+
 
 # Education to show in About widget
 #education:
@@ -54,7 +55,7 @@ social:
   link: https://github.com/blucap
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/lubberink/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 

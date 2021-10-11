@@ -11,8 +11,9 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: github
----
 draft: true
+---
+
 # Install and run Python and relevant libraries. 
 
 Python ‘helpers’.

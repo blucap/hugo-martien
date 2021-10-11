@@ -1,6 +1,6 @@
 ---
 title: EAA - Python Primer for Accounting Research
-date: 2019-05-05
+date: 2021-10-10
 type: book
 ---
 
@@ -36,10 +36,10 @@ Q&A . Subsequent sessions will be taught interactively. Subsequent sessions will
 
 | **Entry Level** | **Date** | Q&A | Videos made available on these topics:                       |
 | ---------------- | -------------- | ------------------- | ------------------------------------------------------------ |
-| 1               | 15-Oct-21     |  | All the things you can do with Python. The value-added Python offers over and above alternative packages. |
-| 2               | 05-Nov-21      |            | Install and run Python, relevant libraries. Python 'helpers'. |
-| 3               | 19-Nov-21      |            | Python commands and variable types.                     |
-| 4               | 03-Dec-21    |   **Tue** 07 Dec 10-11 am CET       | Importing data from  file and from remote data sources.      |
+| 1               | 15-Oct-21       |            | [All the things you can do with Python. The value-added Python offers over and above alternative packages.]({{< relref "/slides/session1" >}}) | 
+| 2               | 05-Nov-21       |            | [Install and run Python, relevant libraries. Python 'helpers'.]({{< relref "/slides/session2" >}}) |
+| 3               | 19-Nov-21       |            | [Python commands and variable types.]({{< relref "/slides/session3" >}})                     |
+| 4               | 03-Dec-21       |   **Tue** 07 Dec 10-11 am CET       | [Importing data from  file and from remote data sources.]({{< relref "/slides/session4" >}})      |
 |                  |                |                     |                                                              |
 | **Intermediate** | **Date** | **Day**             | **Topics**                                                   |
 | 5               | 27-Jan-22      | **Thu 10-11 am CET** | Use Pandas to explore, manage,  clean data, deal with missing observations. |
@@ -54,7 +54,5 @@ Q&A . Subsequent sessions will be taught interactively. Subsequent sessions will
 
 A Zoom or alternative stream link will be made available in due course.
 
-
-
-Course coordinator: [Martien Lubberink](https://martien.netlify.app/)
+Course coordinator: [Martien Lubberink]({{< relref "/" >}})
  

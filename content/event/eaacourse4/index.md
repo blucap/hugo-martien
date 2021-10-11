@@ -5,7 +5,7 @@ event: EAA ARC Python course
 event_url: https://martien.netlify.app/book/example/
 
 summary: Importing data from file and from remote data sources.
-abstract: "This is an introductory course focused on the use of Python for accounting research. The course introduces participants to Python and the level of coding will be basic to intermediate."
+abstract: "Importing data from file and from remote data sources."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

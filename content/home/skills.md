@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 20%
+- description: 10%
   icon: r-project
   icon_pack: fab
   name: R
@@ -24,7 +24,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 40%
+- description: 50%
   icon: piggy-bank
   icon_pack: fas
   name: Banking

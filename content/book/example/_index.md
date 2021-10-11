@@ -10,7 +10,9 @@ Later on in the course, participants will learn to manage, munge, and analyze da
 
 All code will be presented using visually appealing [Jupyter](https://jupyter.org/) notebooks. 
 
-Materials, including [Jupyter](https://jupyter.org/) notebooks, videos, assignments will be accessible via a dedicated Github  website, see this [link](https://github.com/blucap/EEA_Python_Primer).
+## Course resources
+
+Materials, including [Jupyter](https://jupyter.org/) notebooks, videos, assignments will be accessible via a this [site and page]( {{< relref "/book/example" >}} ). There is a dedicated Github  website for notebooks, see this [link](https://github.com/blucap/EEA_Python_Primer).
 
 ## Learning objectives
 
@@ -52,7 +54,7 @@ Q&A . Subsequent sessions will be taught interactively. Subsequent sessions will
 
 ## Communications and coordination
 
-A Zoom or alternative stream link will be made available in due course.
+Zoom or alternative stream links will be made available via this this [site and page]( {{< relref "/book/example" >}} ). 
 
-Course coordinator: [Martien Lubberink]({{< relref "/" >}})
- 
+Host: [Martien Lubberink]({{< relref "/" >}})
+

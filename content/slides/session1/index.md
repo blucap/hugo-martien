@@ -12,7 +12,7 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: github
 ---
-
+draft: true
 # All the things you can do with Python. 
 
 The value-added Python offers over and above alternative packages.

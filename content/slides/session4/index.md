@@ -12,7 +12,7 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: github
 ---
-
+draft: true
 # Importing data from file and from remote data sources.
 
 [Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)

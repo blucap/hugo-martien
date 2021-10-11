@@ -16,7 +16,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-10-01T00:00:00Z"
 
-authors: []
+authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)

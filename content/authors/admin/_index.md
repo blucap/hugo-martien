@@ -77,5 +77,10 @@ Dr. Lubberink's regularly writes for interest.co.nz, New Zealand’s largest fin
 
 He advises banks and central banks on bank supervision and regularly contributes to panel discussions on bank capital.
 
++ [Repec](https://ideas.repec.org/f/plu290.html)
++ [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=255102)
++ [Publons](https://publons.com/researcher/1185525/martien-lubberink/)
++ [Orcid](https://orcid.org/0000-0003-2731-2998)
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. --> 

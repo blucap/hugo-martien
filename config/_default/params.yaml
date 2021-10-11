@@ -24,7 +24,7 @@ email: martien.lubberink@vuw.ac.nz
 Phone: +64 4 463 5968
 #Google voice: 919 636 3652
 address:
-  street: 23 Lambton Quay (Pipitea Campus)
+  street: PO Box 600 - 23 Lambton Quay (Pipitea Campus)
   city: Wellington
 #  region: CA
   postcode: '6140'
@@ -33,7 +33,7 @@ address:
 coordinates:
   latitude: '-41.28664'
   longitude: '174.77557'
-#directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Office 609 | Rutherford House
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
@@ -58,7 +58,7 @@ main_menu:
 
 date_format: '2 Jan 2006'
 time_format: '3:04 PM'
-address_format: en-gb
+address_format: en-ca
 
 # Site features
 

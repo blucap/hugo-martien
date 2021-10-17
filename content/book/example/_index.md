@@ -31,7 +31,7 @@ Participants who are successful in this course will be able to:
 
 ## Delivery
 
-This is an online course.  The first sessions will be asynchronous, with one final live session Q&A. Subsequent sessions will be taught interactively. Subsequent sessions will be taught interactively. The interactive part comprises of five live sessions via Zoom. There will be groups assignments that will be discussed in Zoom breakout rooms. 
+This is an online course. The first sessions will be asynchronous, with one final live session Q&A. Subsequent sessions will be taught interactively. Subsequent sessions will be taught interactively. The interactive part comprises of five live sessions via Zoom. There will be groups assignments that will be discussed in Zoom breakout rooms. 
 
 ## Course schedule
 

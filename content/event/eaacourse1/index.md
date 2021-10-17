@@ -71,9 +71,6 @@ Click on the **Course** link in the header of this page to view the course outli
 [Session 1 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=97b66ef1-430d-4e3e-9873-adc4008017c4)
 {{% /callout %}}
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
 
 

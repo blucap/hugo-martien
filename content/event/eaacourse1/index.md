@@ -4,7 +4,7 @@ title: EAA accounting course - Session 1
 event: EAA ARC Python course
 event_url: https://martien.netlify.app/book/example/
 
-summary: All the things you can do with Python. The value-added Python offers over and above alternative packages.
+summary: All the things you can do with Python. The value-added Python offers over and above alternative packages. Click on the **Course** link in the header of this page to view the course outline and course schedule. </br> [Session 1 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=97b66ef1-430d-4e3e-9873-adc4008017c4) 
 abstract: "All the things you can do with Python. The value-added Python offers over and above alternative packages."
 
 # Talk start and end times.
@@ -65,6 +65,10 @@ slides: session1
 
 {{% callout note %}}
 Click on the **Course** link in the header of this page to view the course outline.
+{{% /callout %}}
+
+{{% callout note %}}
+[Session 1 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=97b66ef1-430d-4e3e-9873-adc4008017c4)
 {{% /callout %}}
 
 {{% callout note %}}

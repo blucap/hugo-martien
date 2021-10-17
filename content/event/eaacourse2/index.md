@@ -4,7 +4,7 @@ title: EAA accounting course - Session 2
 event: EAA ARC Python course
 event_url: https://martien.netlify.app/book/example/
 
-summary: Install and run Python, relevant libraries. Python ‘helpers’.
+summary: Install and run Python, relevant libraries. Python ‘helpers’. Click on the **Course** link in the header of this page to view the course outline and course schedule with associated video presentations.
 abstract: "Install and run Python, relevant libraries. Python ‘helpers’."
 
 # Talk start and end times.
@@ -64,7 +64,7 @@ slides: session2
 ---
 
 {{% callout note %}}
-Click on the **Course** link in the header of this page to view the course outline.
+Click on the **Course** link in the header of this page to view the course outline and course schedule with associated video presentations.
 {{% /callout %}}
 
 {{% callout note %}}

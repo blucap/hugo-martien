@@ -140,8 +140,8 @@ EAA - ARC Python Primer for Accounting Research
 ## Example: resampling data
 
 + An example of superior date handling capabilities of Python and Pandas
-  + We often need to resample data: e.g. from monthly to quarterly, from quarterly to annually.
-+ Code:
+  
+Code:
 ```python
 cet1_res = cet1[['Net CET1', 'Total RWAs', 'CET1']]
 cet1_res = cet1_res.resample('A-JUN').last()

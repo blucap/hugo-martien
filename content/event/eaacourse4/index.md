@@ -4,7 +4,7 @@ title: EAA accounting course - Session 4
 event: EAA ARC Python course
 event_url: https://martien.netlify.app/book/example/
 
-summary: Importing data from file and from remote data sources. Click on the **Course** link in the header of this page to view the course outline and course schedule with associated video presentations.
+summary: Importing data from file and from remote data sources.
 abstract: "Importing data from file and from remote data sources."
 
 # Talk start and end times.
@@ -64,7 +64,7 @@ slides: session4
 ---
 
 {{% callout note %}}
-Click on the **Course** link in the header of this page to view the course outline and course schedule with associated video presentations.
+Click on the **Course** link in the header of this page to view the course outline.
 {{% /callout %}}
 
 {{% callout note %}}

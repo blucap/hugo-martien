@@ -4,7 +4,7 @@ title: EAA accounting course - Session 3
 event: EAA ARC Python course
 event_url: https://martien.netlify.app/book/example/
 
-summary: Python commands and variable types. Click on the **Course** link in the header of this page to view the course outline and course schedule with associated video presentations.
+summary: Python commands and variable types.
 abstract: "Python commands and variable types."
 
 # Talk start and end times.
@@ -64,7 +64,7 @@ slides: session3
 ---
 
 {{% callout note %}}
-Click on the **Course** link in the header of this page to view the course outline and course schedule with associated video presentations.
+Click on the **Course** link in the header of this page to view the course outline.
 {{% /callout %}}
 
 {{% callout note %}}

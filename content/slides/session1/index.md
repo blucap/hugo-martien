@@ -19,7 +19,7 @@ The value-added Python offers over and above alternative packages.
 
 ### [Martien Lubberink](https://people.wgtn.ac.nz/martien.lubberink/professional)
 
-EAA - ARC Python Primer for Accounting Research
+[EAA - ARC Python Primer for Accounting Research]({{< relref "/book/example" >}})
 
 ---
 ## Python 

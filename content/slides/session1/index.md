@@ -52,10 +52,10 @@ EAA - ARC Python Primer for Accounting Research
 + [Popularity](https://statisticstimes.com/tech/top-computer-languages.php) and support, e.g. via [Stackoverflow](https://stackoverflow.com/)
 + Wealth of libraries 
   + [Pandas and Numpy](https://www.scipy.org/) for data analytics
-  + [Scikit-learn](https://scikit-learn.org/stable/index.html) and [TensorFlow](https://www.tensorflow.org/) for ML.
-  + [Geopandas](https://geopandas.org/) and  [xarray](https://xarray.pydata.org/en/stable/index.html) for geospatial data. 
+  + [Scikit-learn](https://scikit-learn.org/stable/index.html) and [TensorFlow](https://www.tensorflow.org/) for ML
+  + [Geopandas](https://geopandas.org/) and  [xarray](https://xarray.pydata.org/en/stable/index.html) for geospatial data 
   + [WRDS](https://pypi.org/project/wrds/) and [Eikon](https://pypi.org/project/eikon/) for access to WRDS & Eikon
-  + [pandaSDMX](https://pandasdmx.readthedocs.io/en/v1.0/index.html) for access to the ECB statistical warehouse.
+  + [pandaSDMX](https://pandasdmx.readthedocs.io/en/v1.0/index.html) for access to the ECB statistical warehouse
 
 
 ---
@@ -65,6 +65,7 @@ EAA - ARC Python Primer for Accounting Research
   + [Github](https://www.github.come/)
   + [Colaboratory](https://colab.research.google.com)
   + [Datalore](https://datalore.jetbrains.com//?utm_source=anaconda.com&utm_medium=cpc&utm_campaign=anaconda-navigator-2020&utm_term=&utm_content=&=)
+  + [Nextjournal](https://nextjournal.com/)
 
 <img src="bigstock-Diversity-hands-fist-bump-for-182667208.jpg" style="float: right;" alt="colab" width="400"/>
   
@@ -94,7 +95,7 @@ EAA - ARC Python Primer for Accounting Research
 ## Why Python?
 
 + Python output:
-  + Tabular materials to Excel, CVS, [LaTeX](https://www.latex-project.org/).
+  + Tabular materials to Excel, CSV, [LaTeX](https://www.latex-project.org/).
   + Graphs, eg. with [Seaborn](https://seaborn.pydata.org/index.html)
 
 <img src="scatterplot_matrix.png" alt="scatterplot_matrix" width="300"/>

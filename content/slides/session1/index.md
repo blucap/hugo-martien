@@ -22,6 +22,11 @@ The value-added Python offers over and above alternative packages.
 [EAA - ARC Python Primer for Accounting Research]({{< relref "/book/example" >}})
 
 ---
+## All the things you can do with Python
+
+[Video link](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=97b66ef1-430d-4e3e-9873-adc4008017c4)
+
+---
 ## Python 
 
 + [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) is an interpreted high-level general-purpose programming language. 

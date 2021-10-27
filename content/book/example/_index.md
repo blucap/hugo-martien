@@ -15,7 +15,7 @@ All code will be presented using visually appealing [Jupyter](https://jupyter.or
 Materials, including [Jupyter](https://jupyter.org/) notebooks, assignments will be accessible via a this [site and page]( {{< relref "/book/example" >}} ). There is a dedicated Github  website for notebooks, see this [link](https://github.com/blucap/EEA_Python_Primer). 
 
 {{% callout note %}}
-**Video's** are accessible via the Course schedule below.
+**Video's** are accessible via the course schedule [below](#course-schedule)
 {{% /callout %}}
 
 ## Learning objectives

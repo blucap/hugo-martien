@@ -76,7 +76,7 @@ Associate Professor Martien Lubberink completed his PhD in Economics at [Groning
 
 Dr. Lubberink's regularly writes for [interest.co.nz](https://www.interest.co.nz/), New Zealand’s largest financial website. His research has been mentioned by the financial press: Bloomberg, The Economist, Euromoney, the Financial Times, NewsRoom.co.nz, National Business Review, Risk Magazine, Stuff.co.nz, SNL Financial, The Wall Street Journal. 
 
-He advises banks and central banks on bank supervision and regularly contributes to panel discussions on bank capital.
+He advises banks and central banks on bank supervision and regularly contributes to panel discussions on bank capital. He is also member of the Basel Committee’s Task Force on Evaluations (TFE).
 
 + [Repec](https://ideas.repec.org/f/plu290.html)
 + [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=255102)

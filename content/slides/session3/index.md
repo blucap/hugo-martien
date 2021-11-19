@@ -26,7 +26,9 @@ Session 3
 ## The Jupyter notebook
 
 - This time we go straight into the Jupyter notebook to demonstrate the code.
-- Please go to my EAA [github site](https://github.com/blucap/EEA_Python_Primer) and [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) it, or download and open the file: `session3.ipynb`.
+- Here is the [video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=a94034fb-2d1b-4de7-ab35-ade5016d0129). 
+- Please go to my EAA [github site](https://github.com/blucap/EEA_Python_Primer) and [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) it, or download and open the notebook: [`session3.ipynb`](https://github.com/blucap/EEA_Python_Primer/blob/master/session3.ipynb)
+- For the Python file click [here](https://github.com/blucap/EEA_Python_Primer/blob/master/session3_from_nb.py).
 
 
 ---

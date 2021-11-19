@@ -47,10 +47,11 @@ This is an online course. The first sessions will be asynchronous, with one fina
 | **Entry Level** | **Date** | Q&A | Videos made available on these topics:                       |
 | ---------------- | -------------- | ------------------- | ------------------------------------------------------------ |
 | 1               | 15-Oct-21       |            | [All the things you can do with Python. The value-added Python offers over and above alternative packages.]({{< relref "/slides/session1" >}}) |
-|                 |               |  | [Promo Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=57a8712f-117a-4d71-bbdb-adc40052d6d7) and [Session 1 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=97b66ef1-430d-4e3e-9873-adc4008017c4) |
+|                 |                 |            | [Promo Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=57a8712f-117a-4d71-bbdb-adc40052d6d7) and [Session 1 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=97b66ef1-430d-4e3e-9873-adc4008017c4) |
 | 2               | 05-Nov-21       |            | [Install and run Python, relevant libraries. Python 'helpers'.]({{< relref "/slides/session2" >}}) |
-|                 |               |  | [Session 2 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=7be64d77-4fb6-4fce-8e2f-add7006066eb), [Demo 1 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=585f2d6d-f096-44ef-b458-add7006066e2) and  [Demo 2 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=b3eb75da-8337-4784-b9c9-add7006066e1)|
+|                 |                 |            | [Session 2 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=7be64d77-4fb6-4fce-8e2f-add7006066eb), [Demo 1 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=585f2d6d-f096-44ef-b458-add7006066e2) and  [Demo 2 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=b3eb75da-8337-4784-b9c9-add7006066e1)|
 | 3               | 19-Nov-21       |            | [Python commands and variable types.]({{< relref "/slides/session3" >}})                     |
+|                 |                 |            | [Session 3 - Video](https://vstream.au.panopto.com/Panopto/Pages/Viewer.aspx?id=a94034fb-2d1b-4de7-ab35-ade5016d0129) |
 | 4               | 03-Dec-21       |   **Tue** 07 Dec 10-11 am CET       | [Importing data from  file and from remote data sources.]({{< relref "/slides/session4" >}})      |
 |                  |                |                     |                                                              |
 | **Intermediate** | **Date** | **Day**             | **Topics**                                                   |

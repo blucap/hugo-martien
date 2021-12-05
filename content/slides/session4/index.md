@@ -27,6 +27,6 @@ Session 4
 - We continue using the Jupyter notebook to demonstrate the code. 
 - Please go to my EAA [github site](https://github.com/blucap/EEA_Python_Primer) and [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) it, or download and open the notebook: [`session4.ipynb`](https://github.com/blucap/EEA_Python_Primer/blob/master/session_4.ipynb).
 - For the Python file click [here](https://github.com/blucap/EEA_Python_Primer/blob/master/session_4_from_nb.py).
-- At the Q\&A session I will briefly you take you trough this session.
+- At the Q\&A session I will briefly take you through this session.
 
 

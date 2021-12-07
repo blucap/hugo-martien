@@ -1,22 +1,23 @@
 ---
-title: "Max Headroom: Discretionary Capital Buffers and Bank Risk"
+title: "Specification of the Market-Accounting Relation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Roger Willett
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-06-18T00:00:00Z"
+date: "2021-11-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-18T00:00:00Z"
+publishDate: "2021-11-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,10 +29,10 @@ publication_types: ["3"]
 publication: In *SSRN Electronic Journal*
 publication_short: In *SSRN*
 
-abstract:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for European banks. The discretionary buffers are banks' own buffers, or headroom, which is the difference between reported and required capital. I exploit capital requirements data that banks started to disclose since the release of a 2015 European Banking Authority opinion. Results using detailed SREP and Pillar 2 data of the largest 99 European banks over 2013-2019 show that less headroom is associated with increased bank risk. An additional examination reveals a positive association between headroom and stress test results for banks subjected to the Single Supervisory Mechanism, a result that runs against supervisory requirements.
+abstract:  We argue that log-linear models, using elasticities to measure response coefficients in regression models of the market-accounting relation, are well specified and provide precise, readily interpreted and valid estimates of the relation between market and accounting values. Using this approach we show that fundamental financial statement data is sufficient, with little or no extra data, to explain firm market value. We illustrate the approach by discussing the evidence for dividend irrelevancy, the relationship of the market to book ratio with growth and its uncertainty, and the existence of abandonment options. Our method of estimating parameters in the market-accounting relation facilitates replication. We use all active Compustat firms between 1971-2020, without deletion or treatment of outliers. Our results demonstrate the utility of using log-linear models for capital market research in accounting.
 
 # Summary. An optional shortened abstract.
-summary:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for European banks. The discretionary buffers are banks' own buffers, or headroom, which is the difference between reported and required capital. I exploit capital requirements data that banks started to disclose since the release of a 2015 European Banking Authority opinion. Results using detailed SREP and Pillar 2 data of the largest 99 European banks over 2013-2019 show that less headroom is associated with increased bank risk. An additional examination reveals a positive association between headroom and stress test results for banks subjected to the Single Supervisory Mechanism, a result that runs against supervisory requirements.
+summary:  We argue that log-linear models, using elasticities to measure response coefficients in regression models of the market-accounting relation, are well specified and provide precise, readily interpreted and valid estimates of the relation between market and accounting values.
 
 tags: []
 
@@ -43,7 +44,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3610562_code255102.pdf?abstractid=3610562&mirid=1'
+url_pdf: 'https://capitalissues.co/wp-content/uploads/2021/12/Specification_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

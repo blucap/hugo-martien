@@ -1,22 +1,23 @@
 ---
-title: "Max Headroom: Discretionary Capital Buffers and Bank Risk"
+title: "How sensitive are bank market values to regulatory adjustments of capital?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Roger Willett
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-06-18T00:00:00Z"
+date: "2021-04-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-18T00:00:00Z"
+publishDate: "2021-04-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,13 +26,13 @@ publishDate: "2020-06-18T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SSRN Electronic Journal*
-publication_short: In *SSRN*
+publication: Not yet posted to SSRN
+# publication_short: In *SSRN*
 
-abstract:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for European banks. The discretionary buffers are banks' own buffers, or headroom, which is the difference between reported and required capital. I exploit capital requirements data that banks started to disclose since the release of a 2015 European Banking Authority opinion. Results using detailed SREP and Pillar 2 data of the largest 99 European banks over 2013-2019 show that less headroom is associated with increased bank risk. An additional examination reveals a positive association between headroom and stress test results for banks subjected to the Single Supervisory Mechanism, a result that runs against supervisory requirements.
+abstract:  We measure the sensitivity of bank market values to capital and to regulatory adjustments applied to bank capital. Results for U.S. banks over the years 2001-2020 show that the sensitivity of banks’ market values to measures of bank capital e.g. book equity, Tier 1, and Total Capital, converges to a one-to-one relationship when market uncertainty is low and when banks’ Tier 1 ratios reach 12 percent of RWAs. Market values are more sensitive to changes in capital of highly geared banks when market uncertainty is high; with shareholders responding positively in particular to increases in Tier 1 and Total Capital. Share prices are less sensitive to deductions from capital. The methods we adopt thus show, with some precision, which adjustments proposed by regulators have positive and which adjustments have negative effects on market valuations of banks..
 
 # Summary. An optional shortened abstract.
-summary:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for European banks. The discretionary buffers are banks' own buffers, or headroom, which is the difference between reported and required capital. I exploit capital requirements data that banks started to disclose since the release of a 2015 European Banking Authority opinion. Results using detailed SREP and Pillar 2 data of the largest 99 European banks over 2013-2019 show that less headroom is associated with increased bank risk. An additional examination reveals a positive association between headroom and stress test results for banks subjected to the Single Supervisory Mechanism, a result that runs against supervisory requirements.
+summary:  We measure the sensitivity of bank market values to capital and to regulatory adjustments applied to bank capital.
 
 tags: []
 
@@ -43,7 +44,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3610562_code255102.pdf?abstractid=3610562&mirid=1'
+url_pdf: 'https://capitalissues.co/wp-content/uploads/2021/04/main.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

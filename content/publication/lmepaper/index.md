@@ -1,22 +1,23 @@
 ---
-title: "Max Headroom: Discretionary Capital Buffers and Bank Risk"
+title: "Are Banks’ Below-Par Own Debt Repurchases a Cause for Prudential Concern?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Annelies Renders
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-06-18T00:00:00Z"
+date: "2018-01-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-18T00:00:00Z"
+publishDate: "2018-01-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,13 +26,13 @@ publishDate: "2020-06-18T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SSRN Electronic Journal*
-publication_short: In *SSRN*
+publication: In *Journal of Accounting, Auditing & Finance*
+publication_short: In *JAAF*
 
-abstract:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for European banks. The discretionary buffers are banks' own buffers, or headroom, which is the difference between reported and required capital. I exploit capital requirements data that banks started to disclose since the release of a 2015 European Banking Authority opinion. Results using detailed SREP and Pillar 2 data of the largest 99 European banks over 2013-2019 show that less headroom is associated with increased bank risk. An additional examination reveals a positive association between headroom and stress test results for banks subjected to the Single Supervisory Mechanism, a result that runs against supervisory requirements.
+abstract:  In the lead-up to the implementation of Basel III, European banks repurchased debt securities that traded below par. Banks engaged in these Liability Management Exercises (LMEs) to realize a fair value gain that prudential rules exclude from regulatory capital calculations. The LMEs enabled banks to augment Core Tier 1 capital, given that alternative methods to increase capital ratios were not feasible in practice. Using data of 720 European LMEs conducted between April 2009 and December 2013, we show that poorly capitalized banks repurchased securities and lost about €9.1bn in premiums to compensate their holders. Banks also repurchased the most loss-absorbing securities, for which they paid the highest premiums. These premiums increase with leverage and in times of stress. Hence debt repurchases are a cause for prudential concern.
 
 # Summary. An optional shortened abstract.
-summary:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for European banks. The discretionary buffers are banks' own buffers, or headroom, which is the difference between reported and required capital. I exploit capital requirements data that banks started to disclose since the release of a 2015 European Banking Authority opinion. Results using detailed SREP and Pillar 2 data of the largest 99 European banks over 2013-2019 show that less headroom is associated with increased bank risk. An additional examination reveals a positive association between headroom and stress test results for banks subjected to the Single Supervisory Mechanism, a result that runs against supervisory requirements.
+# summary:  In the lead-up to the implementation of Basel III, European banks repurchased debt securities that traded below par. Banks engaged in these Liability Management Exercises (LMEs) to realize a fair value gain that prudential rules exclude from regulatory capital calculations. The LMEs enabled banks to augment Core Tier 1 capital, given that alternative methods to increase capital ratios were not feasible in practice. Using data of 720 European LMEs conducted between April 2009 and December 2013, we show that poorly capitalized banks repurchased securities and lost about €9.1bn in premiums to compensate their holders. Banks also repurchased the most loss-absorbing securities, for which they paid the highest premiums. These premiums increase with leverage and in times of stress. Hence debt repurchases are a cause for prudential concern..
 
 tags: []
 
@@ -43,7 +44,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3610562_code255102.pdf?abstractid=3610562&mirid=1'
+url_pdf: 'https://journals.sagepub.com/doi/full/10.1177/0148558X17748406'
 url_code: ''
 url_dataset: ''
 url_poster: ''

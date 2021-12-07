@@ -1,5 +1,5 @@
 ---
-title: EAA accounting course - Session 5
+title: EAA accounting course - Q&A Session
 
 event: EAA ARC Python course
 event_url: https://martien.netlify.app/book/example/
@@ -9,7 +9,7 @@ abstract: "Q & A - and revising the first sessions."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-12-03T00:00:00Z"
+date: "2021-12-07T00:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -41,7 +41,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: session5
+slides: session4a
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

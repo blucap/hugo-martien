@@ -17,7 +17,7 @@ slides:
 
 ### [Martien Lubberink](https://people.wgtn.ac.nz/martien.lubberink/professional)
 
-Session 5
+Q&A Session
 
 [EAA - ARC Python Primer for Accounting Research]({{< relref "/book/example" >}})
 

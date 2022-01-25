@@ -1,0 +1,32 @@
+---
+title: Slides
+summary: Assignment for data munging with Pandas
+authors: []
+tags: []
+categories: []
+date: "2022-01-03T00:00:00Z"
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: white
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style: github
+
+---
+## Data munging with Pandas: assignment
+
+### [Martien Lubberink](https://people.wgtn.ac.nz/martien.lubberink/professional)
+
+Session 5A: Assignment
+
+[EAA - ARC Python Primer for Accounting Research]({{< relref "/book/example" >}})
+
+---
+## Data munging with Pandas
+
+- This assignment is under construction and will be published soo after [session 5]({{< relref "/slides/session5" >}}) aired. 
+- Please go to my EAA [github site](https://github.com/blucap/EEA_Python_Primer) and [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) it.
+- Start the Jupyter notebook and open the file ([`assignment_1_public.ipynb`](https://github.com/blucap/EEA_Python_Primer/blob/master/assignment_1_public.ipynb)) from the GitHub repository where you cloned, saved, or forked it.
+
+
+

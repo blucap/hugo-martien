@@ -17,14 +17,13 @@ slides:
 
 ### [Martien Lubberink](https://people.wgtn.ac.nz/martien.lubberink/professional)
 
-Session 5A: Assignment
+Session 5A: Assignment 1
 
 [EAA - ARC Python Primer for Accounting Research]({{< relref "/book/example" >}})
 
 ---
 ## Data munging with Pandas
 
-- This assignment is under construction and will be published soo after [session 5]({{< relref "/slides/session5" >}}) aired. 
 - Please go to my EAA [github site](https://github.com/blucap/EEA_Python_Primer) and [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) it.
 - Start the Jupyter notebook and open the file ([`assignment_1_public.ipynb`](https://github.com/blucap/EEA_Python_Primer/blob/master/assignment_1_public.ipynb)) from the GitHub repository where you cloned, saved, or forked it.
 

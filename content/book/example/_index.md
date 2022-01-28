@@ -62,7 +62,7 @@ This is an online course. The first sessions will be asynchronous, with one fina
 | **Intermediate** | **Date** | **Day**             | **Topics**                                                   |
 | 5                | 27-Jan-22       | **Thu 10-11 am CET** | [Use Pandas to explore, manage,  clean data, deal with missing observations.]({{< relref "/slides/session5" >}}) |
 |                  |                 |                     |  [Assignment 1.]({{< relref "/slides/session5a" >}})                                                          |
-| 6               | 01-Feb-22      | Tue 10-11 am CET    | Use Pandas to  index, split, apply, and combine data.        |
+| 6               | 01-Feb-22      | Tue 10-11 am CET    | [Use Pandas to  index, split, apply, and combine data.]({{< relref "/slides/session6" >}})        |
 | 7               | 03-Feb-22      | **Thu 10-11 am CET** | Analyse financial data, handle data with different year-ends. |
 | 8               | 08-Feb-22      | Tue 10-11 am CET    | Visualize results and create stunning graphs.               |
 | 9              | 10-Feb-22      | **Thu 10-11 am CET** | Analyse data using statistical libraries.                   |

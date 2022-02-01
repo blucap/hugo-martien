@@ -65,7 +65,7 @@ This is an online course. The first sessions will be asynchronous, with one fina
 |                  |                 |                     |  [Assignment 1 - Solutions](https://github.com/blucap/EEA_Python_Primer/blob/master/assignment_1_solutions.ipynb) |
 | 6               | 01-Feb-22      | Tue 10-11 am CET    | [Use Pandas to  index, split, apply, and combine data.]({{< relref "/slides/session6" >}})        |
 |                  |                 |                     |  [Assignment 2]({{< relref "/slides/session6a" >}})                                                          |
-| 7               | 03-Feb-22      | **Thu 10-11 am CET** | Analyse financial data, handle data with different year-ends. |
+| 7               | 03-Feb-22      | **Thu 10-11 am CET** | [Analyse financial data, handle data with different year-ends.]({{< relref "/slides/session7" >}}) |
 | 8               | 08-Feb-22      | Tue 10-11 am CET    | Visualize results and create stunning graphs.               |
 | 9              | 10-Feb-22      | **Thu 10-11 am CET** | Analyse data using statistical libraries.                   |
 

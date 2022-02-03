@@ -66,7 +66,9 @@ This is an online course. The first sessions will be asynchronous, with one fina
 |                  |                 |                     |  [Video](https://arc.eaa-online.org/portfolio/python-intermediate-live-session-1-use-pandas-explore-manage-clean-data-deal-missing) | 
 | 6               | 01-Feb-22      | Tue 10-11 am CET    | [Use Pandas to  index, split, apply, and combine data.]({{< relref "/slides/session6" >}})        |
 |                  |                 |                     |  [Assignment 2]({{< relref "/slides/session6a" >}})                                                          |
+|                  |                 |                     |  [Video](https://www.youtube.com/watch?v=Gs4U-lV77yk) |
 | 7               | 03-Feb-22      | **Thu 10-11 am CET** | [Analyse financial data, handle data with different year-ends.]({{< relref "/slides/session7" >}}) |
+|                  |                 |                     |  [Video](https://www.youtube.com/watch?v=8Wo-ohbpXmg) |
 | 8               | 08-Feb-22      | Tue 10-11 am CET    | Visualize results and create stunning graphs.               |
 | 9              | 10-Feb-22      | **Thu 10-11 am CET** | Analyze data using statistical libraries, web scraping, text analysis.                   |
 

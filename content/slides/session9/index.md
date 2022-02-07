@@ -13,7 +13,7 @@ slides:
   highlight_style: github
 
 ---
-## Visualize results and create stunning graphs
+## Analyze data using statistical libraries, text analysis, and web scraping
 
 ### [Martien Lubberink](https://people.wgtn.ac.nz/martien.lubberink/professional)
 

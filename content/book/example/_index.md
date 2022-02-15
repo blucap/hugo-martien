@@ -70,9 +70,9 @@ This is an online course. The first sessions will be asynchronous, with one fina
 | 7               | 03-Feb-22      | **Thu 10-11 am CET** | [Analyse financial data, handle data with different year-ends.]({{< relref "/slides/session7" >}}) |
 |                  |                 |                     |  [Video](https://www.youtube.com/watch?v=8Wo-ohbpXmg) |
 | 8                | 08-Feb-22       | Tue 10-11 am CET     | [Visualize results and create stunning graphs.]({{< relref "/slides/session8" >}})               |
+|                  |                 |                     |  [Video](https://www.youtube.com/watch?v=Vvt4T4sptr8) |
 | 9              | 10-Feb-22      | **Thu 10-11 am CET** | [Analyze data using statistical libraries, text analysis, web scraping.]({{< relref "/slides/session9" >}})                  |
-
-
+|                  |                 |                     |  [Video](https://www.youtube.com/watch?v=UgtOyBqb4qE) |
 
 ## Communications and coordination
 

@@ -1,38 +1,40 @@
 ---
-title: "Are Banks' Below-Par Own Debt Repurchases a Cause for Prudential Concern?"
+title: "Guest editorial"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- David Ding
+- Julie Harrison
 - admin
-- Annelies Renders
+- Chris Van Stade
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2018-01-24T00:00:00Z"
-doi: "10.1177/0148558X17748406"
+date: "2021-08-10T00:00:00Z"
+doi: "10.1108/PAR-04-2021-200"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-01-24T00:00:00Z"
+publishDate: "2021-08-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Accounting, Auditing & Finance*
-publication_short: In *JAAF*
+publication: In *Pacific Accounting Review*
+publication_short: In *PAR*
 
-abstract:  In the lead-up to the implementation of Basel III, European banks repurchased debt securities that traded below par. Banks engaged in these Liability Management Exercises (LMEs) to realize a fair value gain that prudential rules exclude from regulatory capital calculations. The LMEs enabled banks to augment Core Tier 1 capital, given that alternative methods to increase capital ratios were not feasible in practice. Using data of 720 European LMEs conducted between April 2009 and December 2013, we show that poorly capitalized banks repurchased securities and lost about €9.1bn in premiums to compensate their holders. Banks also repurchased the most loss-absorbing securities, for which they paid the highest premiums. These premiums increase with leverage and in times of stress. Hence debt repurchases are a cause for prudential concern.
+abstract: Accounting and finance lessons in the time of COVID-19 – views from the pacific basin. 
 
 # Summary. An optional shortened abstract.
-summary:  In the lead-up to the implementation of Basel III, European banks repurchased debt securities that traded below par. Banks engaged in these Liability Management Exercises (LMEs) to realize a fair value gain that prudential rules exclude from regulatory capital calculations. The LMEs enabled banks to augment Core Tier 1 capital, given that alternative methods to increase capital ratios were not feasible in practice. Using data of 720 European LMEs conducted between April 2009 and December 2013, we show that poorly capitalized banks repurchased securities and lost about €9.1bn in premiums to compensate their holders. Banks also repurchased the most loss-absorbing securities, for which they paid the highest premiums. These premiums increase with leverage and in times of stress. Hence debt repurchases are a cause for prudential concern..
+summary: Accounting and finance lessons in the time of COVID-19 – views from the pacific basin. 
 
 tags: []
 
@@ -44,7 +46,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://journals.sagepub.com/doi/full/10.1177/0148558X17748406'
+url_pdf: 'https://www.emerald.com/insight/content/doi/10.1108/PAR-04-2021-200/full/pdf?title=guest-editorial'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,7 +75,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#   slides: example
 slides: ""
 # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 

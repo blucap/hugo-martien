@@ -1,38 +1,40 @@
 ---
-title: "Are Banks' Below-Par Own Debt Repurchases a Cause for Prudential Concern?"
+title: "Does prestigious board membership matter? Evidence from New Zealand"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Mosammet Asma Jahan
+- Karen Van Peursem
 - admin
-- Annelies Renders
+
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2018-01-24T00:00:00Z"
-doi: "10.1177/0148558X17748406"
+date: "2020-02-02T00:00:00Z"
+doi: "10.1111/acfi.12601"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-01-24T00:00:00Z"
+publishDate: "2020-02-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Accounting, Auditing & Finance*
-publication_short: In *JAAF*
+publication: In *Accounting & Finance*
+publication_short: In *ACFI*
 
-abstract:  In the lead-up to the implementation of Basel III, European banks repurchased debt securities that traded below par. Banks engaged in these Liability Management Exercises (LMEs) to realize a fair value gain that prudential rules exclude from regulatory capital calculations. The LMEs enabled banks to augment Core Tier 1 capital, given that alternative methods to increase capital ratios were not feasible in practice. Using data of 720 European LMEs conducted between April 2009 and December 2013, we show that poorly capitalized banks repurchased securities and lost about €9.1bn in premiums to compensate their holders. Banks also repurchased the most loss-absorbing securities, for which they paid the highest premiums. These premiums increase with leverage and in times of stress. Hence debt repurchases are a cause for prudential concern.
+abstract: This study investigates whether ‘prestigious’ multiple board membership is positively associated with firm performance. We employ Resource Dependency theory to explain why performance outcomes may be improved by the presence of ‘prestigious’ multiple directorships. Our analysis relies on extensive hand-collected data on New Zealand company directorships. The results support the contention that ‘prestigious’ multiple directorships are related to better accounting and market performance. Conclusions reflect upon how Resource Dependency theory informs this phenomenon and how ‘prestigious’ board members may be a valuable resource for firms. We also reveal how these findings expose a new avenue for board governance research. 
 
 # Summary. An optional shortened abstract.
-summary:  In the lead-up to the implementation of Basel III, European banks repurchased debt securities that traded below par. Banks engaged in these Liability Management Exercises (LMEs) to realize a fair value gain that prudential rules exclude from regulatory capital calculations. The LMEs enabled banks to augment Core Tier 1 capital, given that alternative methods to increase capital ratios were not feasible in practice. Using data of 720 European LMEs conducted between April 2009 and December 2013, we show that poorly capitalized banks repurchased securities and lost about €9.1bn in premiums to compensate their holders. Banks also repurchased the most loss-absorbing securities, for which they paid the highest premiums. These premiums increase with leverage and in times of stress. Hence debt repurchases are a cause for prudential concern..
+summary: This study investigates whether ‘prestigious’ multiple board membership is positively associated with firm performance. We employ Resource Dependency theory to explain why performance outcomes may be improved by the presence of ‘prestigious’ multiple directorships. Our analysis relies on extensive hand-collected data on New Zealand company directorships. The results support the contention that ‘prestigious’ multiple directorships are related to better accounting and market performance. Conclusions reflect upon how Resource Dependency theory informs this phenomenon and how ‘prestigious’ board members may be a valuable resource for firms. We also reveal how these findings expose a new avenue for board governance research. 
 
 tags: []
 
@@ -44,7 +46,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://journals.sagepub.com/doi/full/10.1177/0148558X17748406'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/acfi.12601'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,7 +75,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#   slides: example
 slides: ""
 # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 

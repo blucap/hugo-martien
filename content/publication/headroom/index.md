@@ -28,10 +28,10 @@ publication_types: ["3"]
 publication: In *SSRN Electronic Journal*
 publication_short: In *SSRN*
 
-abstract:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for European banks. The discretionary buffers are banks' own buffers, or headroom, which is the difference between reported and required capital. I exploit capital requirements data that banks started to disclose since the release of a 2015 European Banking Authority opinion. Results using detailed SREP and Pillar 2 data of the largest 99 European banks over 2013-2019 show that less headroom is associated with increased bank risk. An additional examination reveals a positive association between headroom and stress test results for banks subjected to the Single Supervisory Mechanism, a result that runs against supervisory requirements.
+abstract:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for the 99 largest European banks from 2013 to 2020. Discretionary buffers are banks’ own buffers, or headroom, which is the difference between reported and required capital. Against the backdrop of steadily increasing capital requirements over the sample period, I exploit unique and detailed Pillar 2 data that banks disclose since the release of a 2015 European Banking Authority opinion. I show that less headroom is associated with increased bank risk, even for well-capitalized banks. An additional examination of banks’ responses to the 2016 and 2018 EBA stress tests reveals that banks supervised by the ECB struggled to improve headroom. Overall, I document limitations of the effectiveness of bank capital requirements. 
 
 # Summary. An optional shortened abstract.
-summary:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for European banks. The discretionary buffers are banks' own buffers, or headroom, which is the difference between reported and required capital. I exploit capital requirements data that banks started to disclose since the release of a 2015 European Banking Authority opinion. Results using detailed SREP and Pillar 2 data of the largest 99 European banks over 2013-2019 show that less headroom is associated with increased bank risk. An additional examination reveals a positive association between headroom and stress test results for banks subjected to the Single Supervisory Mechanism, a result that runs against supervisory requirements.
+summary:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for the 99 largest European banks from 2013 to 2020. Discretionary buffers are banks’ own buffers, or headroom, which is the difference between reported and required capital. Against the backdrop of steadily increasing capital requirements over the sample period, I exploit unique and detailed Pillar 2 data that banks disclose since the release of a 2015 European Banking Authority opinion. I show that less headroom is associated with increased bank risk, even for well-capitalized banks. An additional examination of banks’ responses to the 2016 and 2018 EBA stress tests reveals that banks supervised by the ECB struggled to improve headroom. Overall, I document limitations of the effectiveness of bank capital requirements.
 
 tags: []
 
@@ -43,7 +43,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3610562_code255102.pdf?abstractid=3610562&mirid=1'
+url_pdf: 'https://ssrn.com/abstract=4249415'
 url_code: ''
 url_dataset: ''
 url_poster: ''

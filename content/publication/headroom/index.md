@@ -1,5 +1,5 @@
 ---
-title: "Max Headroom: Discretionary Capital Buffers and Bank Risk"
+title: "Max headroom: Discretionary capital buffers and bank risk"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,23 +12,23 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2020-06-18T00:00:00Z"
+date: "2022-10-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-18T00:00:00Z"
+publishDate: "2022-10-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SSRN Electronic Journal*
-publication_short: In *SSRN*
+publication: In *International Review of Financial Analysis*
+publication_short: In *IRFA*
 
-abstract:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for the 99 largest European banks from 2013 to 2020. Discretionary buffers are banks’ own buffers, or headroom, which is the difference between reported and required capital. Against the backdrop of steadily increasing capital requirements over the sample period, I exploit unique and detailed Pillar 2 data that banks disclose since the release of a 2015 European Banking Authority opinion. I show that less headroom is associated with increased bank risk, even for well-capitalized banks. An additional examination of banks’ responses to the 2016 and 2018 EBA stress tests reveals that banks supervised by the ECB struggled to improve headroom. Overall, I document limitations of the effectiveness of bank capital requirements. 
+abstract:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for the 99 largest European banks from 2013 to 2020. Discretionary buffers are banks’ own buffers, or headroom, which is the difference between reported and required capital. Against the backdrop of steadily increasing capital requirements over the sample period, I exploit unique and detailed Pillar 2 data that banks disclose since the release of a 2015 European Banking Authority opinion. I show that less headroom is associated with increased bank risk, even for well-capitalized banks. An additional examination of banks’ responses to the 2016 and 2018 EBA stress tests reveals that banks supervised by the ECB struggled to improve headroom. Overall, I document limitations of the effectiveness of bank capital requirements.
 
 # Summary. An optional shortened abstract.
 summary:  This paper examines the association between discretionary capital buffers, capital requirements, and risk for the 99 largest European banks from 2013 to 2020. Discretionary buffers are banks’ own buffers, or headroom, which is the difference between reported and required capital. Against the backdrop of steadily increasing capital requirements over the sample period, I exploit unique and detailed Pillar 2 data that banks disclose since the release of a 2015 European Banking Authority opinion. I show that less headroom is associated with increased bank risk, even for well-capitalized banks. An additional examination of banks’ responses to the 2016 and 2018 EBA stress tests reveals that banks supervised by the ECB struggled to improve headroom. Overall, I document limitations of the effectiveness of bank capital requirements.
@@ -43,7 +43,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ssrn.com/abstract=4249415'
+url_pdf: 'https://authors.elsevier.com/a/1f-Yu3mS%7E2WD90'
 url_code: ''
 url_dataset: ''
 url_poster: ''
